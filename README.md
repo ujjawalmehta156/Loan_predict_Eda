@@ -66,10 +66,3 @@ cd loan-predict-eda
 jupyter notebook "Loan_predict_24_06_2026 (1).ipynb"
 ```
 
----
-
-## 📬 Let's Connect!
-I am actively exploring opportunities in Data Analytics, Data Science, and Machine Learning. If you found this analysis insightful or want to discuss data strategies:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile) 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
